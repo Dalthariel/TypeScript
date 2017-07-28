@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"sourceMap": true
+	},
+	"files": [
+		"021_inheritance.ts"
+	]
+}
