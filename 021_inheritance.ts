@@ -23,7 +23,7 @@ class BillOfLading extends Report {
 }
 
 var invoice = new Invoice('Google', 200);
-var bol = new BillOfLading('Google', 'Scottsdale', 'AZ');
+var bol = new BillOfLading('Google', 'Mountain View', 'CA');
 
 console.log(invoice.printInvoice());
 console.log(bol.printBol());

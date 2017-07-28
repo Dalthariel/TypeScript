@@ -43,7 +43,7 @@ var BillOfLading = (function (_super) {
     return BillOfLading;
 }(Report));
 var invoice = new Invoice('Google', 200);
-var bol = new BillOfLading('Google', 'Scottsdale', 'AZ');
+var bol = new BillOfLading('Google', 'Mountain View', 'CA');
 console.log(invoice.printInvoice());
 console.log(bol.printBol());
 //# sourceMappingURL=021_inheritance.js.map
