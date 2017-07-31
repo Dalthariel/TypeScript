@@ -3,6 +3,6 @@
 		"sourceMap": true
 	},
 	"files": [
-		"021_inheritance.ts"
+		"028_higher_order_functions_callbacks.ts"
 	]
 }
